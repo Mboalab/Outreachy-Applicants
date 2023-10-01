@@ -1,3 +1,3 @@
 Hello and welcome
 
-Check each task and contribute
+Simply create a Folder for this project here containing your name, Which all your contributions to this project will be placed.
