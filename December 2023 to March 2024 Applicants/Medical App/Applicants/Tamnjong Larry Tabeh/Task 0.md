@@ -7,9 +7,11 @@ I love music, particularly American hip-hop and gospel music. Although I'm not m
 I am genuinely excited about this opportunity, and my primary goal is to learn, contribute, and support the community.
 
 ### Social media pages
-
+**E-mail**: (larrytabeh@gmail.com)
 [Facebook](https://web.facebook.com/tamnjong.larrytabeh/) <br>
 [LinkedIn](https://www.linkedin.com/in/tamnjong-larry-55918a1b7/) <br>
 [Twitter](https://twitter.com/TabehLarry)
+[GitHub](https://github.com/larrytamnjong)
+
 
 
