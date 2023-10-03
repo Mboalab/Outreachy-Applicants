@@ -35,6 +35,7 @@ Patients can search for hospitals based on their medical needs and geographical 
 #### User registration 
 
 ![Alt text](images/image-25.png)
+
 The app does not provide the possibility for a regular user to register in the app. It provides just the possibility for Hospital Signup and users have the option of Joining LinkedIn community. 
 
 User at the moment can only use the app as guest I'd recommend enabling the possibility of user registration.
@@ -45,19 +46,17 @@ User at the moment can only use the app as guest I'd recommend enabling the poss
 
 The icon color of the unselected button on the bottom navigation bar is very pale and challenging to see. Brightening the color will improve navigation ease.
 #### Hospital Dashboard page
-+ There's a light spelling error of ```dashboard``` text ```dashbord```
++ There's a light spelling error instead of ```dashboard``` we have ```dashbord```
 
 ![Alt text](images/image-20.png)
 
 + Secondly, the screen is divided into two sections, with the fixed header section, indicated with a **black arrow**, occupying an equal portion of the screen alongside the scrollable body section, indicated with a **red arrow**, which contains card widgets displaying individual hospitals.
 
-![Alt text](images/image-21.png)
+![Alt text](images/image-22.png)
 
 The layout could be made more efficient by enhancing the flexibility of the header section with the search field. To achieve this, the header section could be wrapped in a sliver app bar. When the user scrolls down, the header section would automatically shrink since, at that point, the user's focus is on scrolling through the available hospitals. Conversely, when the user scrolls up, the header section can expand to occupy slightly more space, providing a more responsive and user-friendly experience.
 
 #### Settings Page
-
-![Alt text](images/image-22.png)
 
 The Settings page is empty and more functionality could be added to this page. Such as
 + Giving the user the ability to switch between light and dark themes
@@ -87,31 +86,33 @@ Additionally, the theming on the page appears a bit inconsitent with the overall
 
 ![Alt text](images/image-27.png)
 
-The home page that displays after the user signs in is a bit confusing. 
+
+
 
 ![Alt text](images/image-28.png)
 
-The text at the top is redundant because its restating text that was displayed on the Sign In screen. I would suggest removing the text and moving the search field to the app bar in this way more space will be created for the hospital display cards and filters.
+The text at the top is redundant because it's restating information already displayed on the Sign-In screen. I would suggest removing the text and relocating the search field to the app bar. This way, more space will be available for the hospital display cards and filters.
 
-The last thing is when the user logs in the user gets stranded on the screen because the bottom navigation bar is not avialabe and there's no logical next step
+The home page that appears after the user signs in is a bit confusing. Additionally, when the user logs in, they could get stranded on the screen because the bottom navigation bar is not available, and there's no clear or logical next step.
+
 
 ![Alt text](images/image-30.png)
 My suggestion could be to put in place a bottom navigation bar or sidebar which will contain options for settings and profile.
 
 ![Alt text](images/image-27.png)
 
-In the image above if the user clicks the back button from the home page it takes the user back to the Hospital Sign Up page. My suggestion clicking the back button at that point the screen is suppose to exit the app. Same issue if the user clicks back again it takes the user to the Sign in Screen and third back will return the user now to the initial load home page.
+In the image above, if the user clicks the back button from the home page, it takes the user back to the Hospital Sign-Up page. My suggestion is that, when clicking the back button at that point, the screen is supposed to exit the app. The same issue occurs if the user clicks back again; it takes the user to the Sign-In screen, and a third back click will return the user to the initial load home page.
 
 ![Alt text](images/image-31.png) ![Alt text](images/image-32.png)
 
-My Suggestion will be to fix the routing so pages are properly popped.
+My suggestion would be to fix the routing so that pages are properly popped.
 
 ## General Suggestion
 1. App structure 
 
-![Alt text](image.png)
+![Alt text](images/image-34.png)
 
-The current app structure as on the image above is simple and good but I believe we could make it better by implementing clean architecture and the MVC pattern to seperate the Business login from the UI so as to be able to easily expand the code and implementing testing. 
+The current app structure as on the image above is simple and good but I believe we could make it better by implementing clean architecture and the MVC pattern to seperate the Business login from the UI so as to be able to easily expand the codea and implementing testing. With the enhanced structure many people will be able to contribute without much conflicts.
 
 2. State management
 The provider package is an awesome package which is currently implemented. My personal recommendation is to use GetX due to its 
