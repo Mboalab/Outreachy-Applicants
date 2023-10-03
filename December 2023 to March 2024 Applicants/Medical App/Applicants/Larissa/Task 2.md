@@ -29,11 +29,19 @@ Here is the [Video Walkthrough](https://drive.google.com/file/d/1RNImCEIqGP9wHcp
 
 2 - I was having issue when I logged in with my Google account. I registered using my Google account. However, I was unable to log in using that same account. Below is the video screen shot demonstrating that.
 
-<!-- TODO add video describing the issue -->
+
+
+https://github.com/rica213/Outreachy-Applicants/assets/10439283/c0b14be0-839c-4542-8e29-e6774b534dd2
+
+
 
 3 - When I logged in for the first time (as a hospital), I fill the form about the hospital. And after submitting, I will be redirected to the list of the existing facilities. Which is great. However, when I logged in **for the second time**, I will be asked to fill **again** the hospital form. Instead, I **should** be directly redirected to the list of the existing facilities. Below is the video demonstrating that.
 
-<!-- TODO add video describing the issue -->
+
+
+https://github.com/rica213/Outreachy-Applicants/assets/10439283/cb866f66-0e32-4283-81e9-a4f064b47fbb
+
+
 
 4 - To enhance the user experience even more, adding more criteria for the filter is suggested. For example, filter by **public**, **private** etc.
 
