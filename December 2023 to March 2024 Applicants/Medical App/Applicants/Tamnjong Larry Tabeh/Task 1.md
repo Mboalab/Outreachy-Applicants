@@ -9,6 +9,7 @@ The following are the steps necessary to setup the development environment for M
 4. Install an IDE
 5. Clone the "December 2023 to March 2024 Applicants" Repository
 6. Clone and Set Up the "Mboacare" Medical App Project
+7. Open the Project and Run the project
 
 
 ## 1. Setup a GitHub Account
@@ -62,3 +63,63 @@ Search for flutter and install
 ![Alt text](image-6.png)
 
 Lastly Search for dart and install
+
+## 5. Clone the "December 2023 to March 2024 Applicants" Repository
+To clone the Repository we need to [visit project repository](https://github.com/AnishaSingh0118/Mboacare)
++ The first thing to do will be to click on ``` Fork ``` inorder to create a copy of the code 
+
+![Alt text](image-7.png)
+
+After clicking on fork on the repository page the next thing will be to confirm
+
+![Alt text](image-8.png)
+
+## 6. Clone and Set Up the "Mboacare" Medical App Project
+The last thing will be to clone the fork copy of the Mboacare project on our local computer 
++ Open a command prompt on your computer using the ``` cd ``` command you can navigate to a directory where you want to clone the project
+
+![Alt text](image-9.png)
+
+On my computer as on the above image I have navigated to a directory called ```Outreachy_Projects```
++ Now we have to go back to Github and from your profile where you forked the project 
+
+![Alt text](image-10.png)
+
+Click the green button
+
+![Alt text](image-11.png)
+
+Copy the link to project
+
++ Now move back to the command prompt and inside you desired directory run this command ``` git clone <Replace with copied linked>``` and press ``` Enter ```
+
+![Alt text](image-12.png)
+
+After cloning you should see an output similar to the one below 
+
+![Alt text](image-13.png)
+
+## 7. Open the Project and run the project
++ Go your Desired Editor, In my case I'm using Android Studio
+
+![Alt text](image-14.png)
+
+From the tab bar select **Open** and navigate the directory to open the project. 
+
++ After opening the project several errors will show 
+
+![Alt text](image-15.png)
+
+Head to the terminal and run the command ``` flutter pub get ``` to get all dependencies.
+
+![Alt text](image-16.png)
+
++ We need to select a device from out active devices on Android studio 
+
+![Alt text](image-17.png)
+
+Once you choose your selected device click the play button
+
+If everything runs well you should see this screen on your device 
+
+![Alt text](image-18.png)
