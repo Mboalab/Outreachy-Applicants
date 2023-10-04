@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My name is Ihimbru Kanyimi, and I'm a final year Computer Engineering student at the School of Engineering of The University of Bamenda.
+My name is Ihimbru Kanyimi,a final year Computer Engineering student at the School of Engineering of The University of Bamenda.
 
 ## Skills
 
@@ -19,7 +19,7 @@ My name is Ihimbru Kanyimi, and I'm a final year Computer Engineering student at
 
 ## Connect with Me
 
-You can find me on various social media platforms:
+You can find me on these social media platforms below:
 
 - **Twitter**: [https://twitter.com/KanIhims](https://twitter.com/KanIhims)
 - **LinkedIn**: [https://www.linkedin.com/in/ihimbru-kanyimi-46a973227](https://www.linkedin.com/in/ihimbru-kanyimi-46a973227)
