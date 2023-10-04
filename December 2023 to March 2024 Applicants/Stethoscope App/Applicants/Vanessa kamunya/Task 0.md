@@ -4,7 +4,7 @@ Hello, I am **Vanessa Kamunya** from Kenya. I am an Mobile developer and I also 
 
 ### Skills
 Kotlin | Flutter | Dart | BLoC | Firebase |Flutter |XML | RESTful APIs | Jetpack Compose |
-Databases | Android SDK |RESTful APIs | User experience design | Android platforms | App store functionality | Android Studio | Push Notifications | Firebase | Firestore |Analytics | Git | 
+Databases | Android SDK |RESTful APIs | User experience design | Android platforms | App store functionality | Android Studio | Push Notifications | Firebase | Firestore |Analytics | Git | Python
 
 
 ### Hobbies
