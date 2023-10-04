@@ -46,4 +46,17 @@ https://github.com/rica213/Outreachy-Applicants/assets/10439283/cb866f66-0e32-42
 4 - To enhance the user experience even more, adding more criteria for the filter is suggested. For example, filter by **public**, **private** etc.
 
 
+## /!\ ADDITIONAL FEEDBACK
+
+This feedback  is from my **second usage** of the application the **next day**. <br>
+During my first test, I **did not notice** the menu icons at the bottom except for the active one.
+
+### Takeaway
+
+The **contrast** of those menu icons needs to be improved to enhance the accessibility  of the application. <br>
+Below is the record of my second test.
+
+https://github.com/rica213/Outreachy-Applicants/assets/10439283/3612cee7-be7b-4251-9aee-ce0c9c20c57e
+
+
 That is all for now. Thank you.
