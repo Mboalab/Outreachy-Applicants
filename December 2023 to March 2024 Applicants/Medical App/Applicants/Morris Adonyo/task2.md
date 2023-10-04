@@ -4,23 +4,26 @@
 
 
 DOCUMENTATION:
-1. Introduction
-   - Project Overview
+1. Introduction:
+   - Project Overview:
        This project is to connect hospitals so as to share resources and information as per the services they offer.
        Treatment of patients can be much more facilitated and referral process made easy given hospitals are able to know which hospitals offer which services and in which location.
        This will reduce mortality rate, as not only hospitals but patients can search which hospitals offer treatment for which diseases, and the various locations globally.
 
 2. Problem Statement
-     -The lack of information in today’s age posses a serious threat to life and increases mortality rate.
+
+   -The lack of information in today’s age posses a serious threat to life and increases mortality rate.
    Hospitals globally offer treatment of various diseases, however, information regarding which hospital can treat a patient of what,
    and where is it located is a major challenge to both health personnels and patients themselves.
 
-2. Objectives
-     -The objective is to develop an open source application where hospitals can sign up, and register the various facilities and services as per their location,
+2. Objectives:
+
+   -The objective is to develop an open source application where hospitals can sign up, and register the various facilities and services as per their location,
    and other hospitals can easily refer patients, or patients can easily locate a hospital for each case. This saves time, and money and most importantly, reduces mortality rate.
 
-4. User Profiles
-    The application will cater to various user profiles, each with specific roles and responsibilities. Understanding these user profiles is crucial for designing a system that meets their needs effectively.
+4. User Profiles:
+
+   The application will cater to various user profiles, each with specific roles and responsibilities. Understanding these user profiles is crucial for designing a system that meets their needs effectively.
 
    4.1. Hospital Administratore
    
@@ -58,7 +61,8 @@ DOCUMENTATION:
          -Monitoring: Monitor system performance, security, and compliance with healthcare regulations.
          -Troubleshooting: Handle system-related issues, escalations, and technical support.
 
-5. Functional Sections
+6. Functional Sections:
+
    The application consists of several functional sections, each serving a specific purpose and catering to different user needs.
    
    5.1. Registration and Authentication
@@ -97,8 +101,9 @@ DOCUMENTATION:
      -System Configuration: Configures application settings, including security parameters and access control.
      -Troubleshooting: Handles system-related issues and provides technical support.
 
-6. Non-Functional Sections
-   In addition to the functional sections, the application must adhere to non-functional requirements to ensure performance, security, and user satisfaction.
+8. Non-Functional Sections
+
+In addition to the functional sections, the application must adhere to non-functional requirements to ensure performance, security, and user satisfaction.
 
    6.1. Security
    -Non-Functional Requirements:
@@ -125,8 +130,8 @@ DOCUMENTATION:
    -Non-Functional Requirements:
      -Accessibility Standards: Adheres to accessibility standards (e.g., WCAG) to ensure the application is usable by individuals with disabilities.
 
-7. Additional Functionalities
-   In addition to the core functionalities, the application includes several supplementary features to enhance user experience and provide added value.
+9. Additional Functionalities:
+    In addition to the core functionalities, the application includes several supplementary features to enhance user experience and provide added value.
 
    7.1 User Reviews and Ratings
    -Functionality:
@@ -148,8 +153,9 @@ DOCUMENTATION:
      -Online Communities: Establishes online support groups and communities where patients can connect and share experiences.
      -Support Resources: Offers access to mental health resources and support for patients and their families.
 
-8. Suggestions for UI/UX
-   Creating an intuitive and user-friendly interface is essential for the success of the hospital resource and information sharing application. Here are some design recommendations to consider:
+11. Suggestions for UI/UX:
+
+    Creating an intuitive and user-friendly interface is essential for the success of the hospital resource and information sharing application. Here are some design recommendations to consider:
    8.1. User-Friendly Interface
      -Clean and Minimalistic Design: Adopt a clean and minimalistic design approach to ensure a clutter-free user interface.
      -Intuitive Navigation: Implement intuitive navigation menus and buttons to help users easily find the information they need.
