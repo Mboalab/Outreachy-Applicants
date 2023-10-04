@@ -1,5 +1,5 @@
 1. INTRODUCTION:
-   - My name is Adonyo Morris, I am am from Kampala Uganda and a recent graduate of Mbarara University of Science and Technology.
+   - My name is Adonyo Morris, I am from Kampala Uganda and a recent graduate of Mbarara University of Science and Technology.
    I graduated with a Bachelor of Computer Science. I have passion in programming and specifically mobile application development.
    Am here to make my first contributions to open source for the first time in my career.
 
@@ -11,7 +11,7 @@
    - Github
   
 4. LIKES:
-   - I enjoy watching playing and watching football, swimming and making tours and my free times.
+   - I enjoy watching and playing football, swimming and making tours and my free times.
 
 6. LINKS:
    -[Github](https://github.com/kkmaurice)
