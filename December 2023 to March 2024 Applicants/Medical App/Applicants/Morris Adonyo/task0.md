@@ -13,7 +13,7 @@
 4. LIKES:
    - I enjoy watching playing and watching football, swimming and making tours and my free times.
 
-6. LINKS
+6. LINKS:
    -[Github](https://github.com/kkmaurice)
    -[Twitter](https://twitter.com/Maurice18746499)
    -[LinkedIn](https://www.linkedin.com/in/adonyo-maurice-340511211/)
