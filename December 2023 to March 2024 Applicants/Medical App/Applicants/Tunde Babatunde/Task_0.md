@@ -2,7 +2,7 @@
 
 ### Greetings there..
 
-I am Tunde Babatunde, a clinical Optometrist and a Junior Software Engineer(Frontend) from Nigeria. I have 6years community Hospital based practice experience and just rounded up my software engineering training with ALX Africa/Holberton schools.
+I am Tunde Babatunde, a clinical Optometrist and a Junior Software Engineer(Frontend) from Nigeria. I have 7years community Hospital based practice experience and just rounded up my software engineering training with ALX Africa/Holberton schools.
 
 I am passionate about health and its improvement with technology an that was one of the main motivation for my software engineering training. There are limitless advantages of Tech for the health sector and properly and it has to be properly harnnessed starting from Electronic Medical Records among many others
 
