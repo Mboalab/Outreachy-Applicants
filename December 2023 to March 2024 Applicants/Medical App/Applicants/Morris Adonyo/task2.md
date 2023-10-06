@@ -4,7 +4,7 @@
 
 
 **DOCUMENTATION:**
-**1. Introduction:**
+1. **Introduction:**
    - Project Overview:
        This project is to connect hospitals so as to share resources and information as per the services they offer.
        Treatment of patients can be much more facilitated and referral process made easy given hospitals are able to know which hospitals offer which services and in which location.
