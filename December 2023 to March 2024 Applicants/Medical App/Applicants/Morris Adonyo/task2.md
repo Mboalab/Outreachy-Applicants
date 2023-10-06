@@ -1,10 +1,10 @@
-1. Screen Recorded View of the Medical app.
+**1. Screen Recorded View of the Medical app.**
 
    -Find the the link to screen recorded view of the application [here](https://drive.google.com/file/d/1RrBCpvnOtre727F7vr6njuyB1QdJQDl9/view?usp=sharing)
 
 
-DOCUMENTATION:
-1. Introduction:
+**DOCUMENTATION:**
+**1. Introduction:**
    - Project Overview:
        This project is to connect hospitals so as to share resources and information as per the services they offer.
        Treatment of patients can be much more facilitated and referral process made easy given hospitals are able to know which hospitals offer which services and in which location.
@@ -63,9 +63,9 @@ DOCUMENTATION:
          -Analytics and Reporting: Access comprehensive analytics and generate reports on system usage.
          -Monitoring: Monitor system performance, security, and compliance with healthcare regulations.
          -Troubleshooting: Handle system-related issues, escalations, and technical support.
+       
 
-6. Functional Sections:
-
+5. Functional Sections:
    The application consists of several functional sections, each serving a specific purpose and catering to different user needs.
    
    5.1. Registration and Authentication
@@ -115,12 +115,13 @@ DOCUMENTATION:
    -User Management: Super Administrators can manage user accounts, roles, and permissions.
      -System Configuration: Configures application settings, including security parameters and access control.
      -Troubleshooting: Handles system-related issues and provides technical support.
+   
 
 8. Non-Functional Sections
 
-In addition to the functional sections, the application must adhere to non-functional requirements to ensure performance, security, and user satisfaction.
+   In addition to the functional sections, the application must adhere to non-functional requirements to ensure performance, security, and user satisfaction.
 
-   6.1. Security
+   8.1. Security
    
    -Non-Functional Requirements:
      
@@ -128,30 +129,30 @@ In addition to the functional sections, the application must adhere to non-funct
      -Access Control: Implements role-based access control (RBAC) to restrict user access to appropriate sections of the application.
      -Compliance: Complies with healthcare data protection regulations, such as HIPAA (Health Insurance Portability and Accountability Act).
    
-   6.2. Saclability:
+   8.2. Saclability:
    
    -Non-Functional Requirements:
      -Scalable Architecture: Utilizes a scalable infrastructure to handle increased user activity and data growth.
      -Load Balancing: Implements load balancing for even distribution of traffic across servers.
 
-   6.3. Performance
+   8.3. Performance
    
    -Non-Functional Requirements:
      -Response Time: Ensures fast response times for searches, notifications, and data retrieval.
      -Caching: Implements caching mechanisms to reduce database queries and improve performance.
 
-   6.4. Reliability
+   8.4. Reliability
    
    -Non-Functional Requirements:
      -High Availability: Ensures the application is highly available with minimal downtime.
      -Backup and Recovery: Implements regular data backups and a disaster recovery plan.
 
-   6.5. Data Privacy
+   8.5. Data Privacy
    
    -Non-Functional Requirements:
      -Accessibility Standards: Adheres to accessibility standards (e.g., WCAG) to ensure the application is usable by individuals with disabilities.
 
-9. Additional Functionalities:
+10. Additional Functionalities:
 
    In addition to the core functionalities, the application includes several supplementary features to enhance user experience and provide added value.
 
