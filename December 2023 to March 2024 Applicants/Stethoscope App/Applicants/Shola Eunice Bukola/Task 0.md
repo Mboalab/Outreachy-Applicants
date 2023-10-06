@@ -15,4 +15,4 @@ I love music and love watching sitcoms. I guess you could say I have a high sens
 - [LinkedIn](https://www.linkedin.com/in/bukola-eunice-44848320b)
 - [Twitter](https://twitter.com/bukky_oe?t=V5AVrYFZkUEa9MEMj8OWYg&s=09)
 - [GitHub](https://github.com/bukky-eo)
-[- Medium](https://medium.com/@thedweebspeaks)
+- [Medium](https://medium.com/@thedweebspeaks)
