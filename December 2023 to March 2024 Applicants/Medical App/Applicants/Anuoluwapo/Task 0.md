@@ -5,12 +5,12 @@ With over two years of experience in  developing mobile applications using flutt
 My passion for building communities led due to my community management career.
 
 
-Originally I wanted to be a nurse as I love anything about science and tech but I wasn't given the course in school.I was given computer science which lead to me learning programming skills but my passion for health didn't died. This passion led me to be part of this project.
+Originally I wanted to be a nurse as I love anything about science and tech but I wasn't given the course in school. I was given computer science which lead to me learning programming skills but my passion for health and science didn't died. This passion led me to be part of this project.
 
 I've always been fascinated by how technology shapes our lives, and what MboaLab does is truly inspiring. They're making positive changes in our community through science and technology. This kind of initiative is still quite rare in Africa, where technology is still in its early stages. That's one of the main reasons I want to be a part of this project. I want to bring meaningful change through my skills.
 
 I love music. I also love dancing even though I don't know how to dance.
-I enjoy taking pictures, public speaking and friend group hangouts 
+I enjoy taking pictures, reading books and hanging out with friends.
 
 I am genuinely excited about this opportunity, and my primary goal is to learn, contribute, and support the community.
 
