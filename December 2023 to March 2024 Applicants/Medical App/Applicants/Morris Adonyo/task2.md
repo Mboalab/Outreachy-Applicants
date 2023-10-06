@@ -16,7 +16,7 @@
    Hospitals globally offer treatment of various diseases, however, information regarding which hospital can treat a patient of what,
    and where is it located is a major challenge to both health personnels and patients themselves.
 
-2. ""Objectives:""
+2. **Objectives:**
 
    -The objective is to develop an open source application where hospitals can sign up, and register the various facilities and services as per their location,
    and other hospitals can easily refer patients, or patients can easily locate a hospital for each case. This saves time, and money and most importantly, reduces mortality rate.
@@ -66,6 +66,7 @@
        
 
 5. **Functional Sections:**
+
    The application consists of several functional sections, each serving a specific purpose and catering to different user needs.
    
    5.1. **Registration and Authentication**
