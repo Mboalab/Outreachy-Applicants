@@ -107,3 +107,69 @@ I must appreciate the efforts of the development team of the current Mboacare Ap
 - Providing a secure communication to the database.
 - Implementing MVC pattern (Model view Controller)
 - Implementing Repository format
+
+### Refactoring of the code base for more reusability 🙂
+
+I appreciate the developer who worked on the current project. Ensuring the project work is always the goal. Let's come to code maintainability, is very important in a project. This ensures project continuity in that another developer should be able to work on the code base with minimal hitch.
+
+- What is Code Refactoring:
+Refactoring is the process of restructuring existing code in terms of improving code readability, maintainability, and performance. Refactoring is a disciplined approach to code improvement that is intended to keep the code clean and maintainable. The goal of refactoring is to improve internal code structure by separating business logic from the interface. Refactoring is a fundamental part of software engineering. Note should be taken that refactoring does not affect the external behavior of the software.
+
+- Reusability of Code: Reusability of code is one of the most important aspects of the project. Reusability of code is possible when a piece of code can be reused. The reusability of code is a very important concept in software engineering. It helps in reducing the development time and cost.
+
+### Making use of state management in the application 👍
+
+I do appreciate the developer for making use of state management which is the provider. Though implemented, there is to lot to do when it comes to implementing state management. In building high-quality apps with Flutter, state management is one of the most important aspects of the app. State management is to ensure the app state is saved and restored properly. Some question state management seeks to Answer is: 
+
+- What happens if the app crashes?
+- How to save application state across different screens.
+- When should the application state be saved?
+- How to make data persistent across different devices?
+- Checking of connectivity before saving the app state.
+There are a lot of questions state management answers.
+
+In Flutter there are a lot of ways to implement state management. Making use of packages and inbuilt state management is one of the ways. Some most commonly used state management packages are:
+
+- Getx
+- Provider
+- Riverpod
+- BloC
+
+For this project, I suggest we use the Getx package. Let's take a deep dive into Getx.
+#### What is Getx?😀
+
+Getx is a state management package that provides a simple and intuitive structure and manages our codebase. We can get the documentation and package [Get](https://pub.dev/packages/get). It consists of two patterns clean architecture and Getx pattern. Getx is the most popular state management package for Flutter due to its simplicity, lightweight, and numerous features. Getx is not just a state management package it has other features that come with it. Some include:
+
+- Navigation 🥰: when it comes to navigation in Flutter the first thing that comes to mind is the Navigation module provided by Getx. Though Flutter provides navigation, it is not as flexible as Getx. With Getx we can create reusable navigation modules, add transitions, effects, and many more. Navigation in Getx is straightforward, easy to understand, and easy to implement. For example, we have Get.to(page) and we can just pass the page we want to navigate to.
+- Localization 🥳: Getx provides a simple and easy way to localize our app. We can use the Getx package to translate our app and provide users with a localized version. It reduces the time it takes to localize our app. We can use the localization feature by setting up a key-value pair in our app using the localization key. For example locale : [‘en’, “fre”].
+
+- Dependency Institute: Dependency injection is a design pattern used to inject dependencies into an object. It allows us to have a clear dependency relationship between an object and its dependencies. Getx provides a simple way to do dependency injection. We can create a new object by passing a key.
+
+#### Why Getx?😀
+
+Getx is a package that provides a simple and easy way to modularize our application. Since our app consists of two modules, Using Getx partten we can restructure our app by defining the various modules and adding them to our app. Getx pattern breaks down our code into view, binding, and controller.
+
+- Here the view is responsible for displaying the data to the user.
+- The controller houses all the logic for the app.
+- The binding is responsible for linking various aspects of the app and connecting it to the app engine.
+
+#### Easy to maintain 🙂
+
+one important nice thing about Getx is that it is very easy to maintain. Since the app is divided into different modules. We can change the code of any module without affecting the other module.
+
+### Adding readme on how to set up code base 🎉
+
+This involves documenting the project setup in a Readme.md file. This will enable other developers to set up the code base and contribute to the project. That is a step-by-step process to set up the code base.
+
+### Providing secure communication to the database
+
+The current app makes use of a NoSQL database, which is firebase database. Communication to the database is direct from app which at some point it will be insecure. To ensure security, we implement another layer of security. By developing API it will help remove direct access to the server and will be a better way to protect the data.
+
+### Development of RestFul API to communicate with the database 💯
+
+Developing a RestFul API will ensure security of the database. They won’t be direct access to the database. Also adding security measures such as token base will help prevent unauthorised access. Wth the used of API we turn to improve the following:
+
+- Reducing the server load and network traffic
+- Increasing on app performance
+- Improving on app response time
+- Prevent direct access to the database.
