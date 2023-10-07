@@ -1,3 +1,5 @@
+##  Record link
+
 This is the link to the recording of the running app:
 [link](https://drive.google.com/file/d/1BehuW1quo_Z65r7mOo4nwGqgaEI4pn0C/view?usp=drive_link)
 
@@ -19,7 +21,7 @@ The application addresses the challenge of finding which hospital can treat a pa
 
  - The hospital dashboard shows a list of all the hospitals with the service offered and facilities present.
 
- **Hospital Details **
+ **Hospital Details**
 
  - It provides information about each hospital e.g address, phone number,  email facilities available, service offered etc.
 
