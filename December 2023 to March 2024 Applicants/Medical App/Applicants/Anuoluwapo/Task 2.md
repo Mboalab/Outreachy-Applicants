@@ -29,7 +29,7 @@ The application addresses the challenge of finding which hospital can treat a pa
  - It displays only the English language choice.
   
 
-## 4. Non functional Sections of the Application
+## 4. Non Functional Sections of the Application
 
  **Authentication**
  - User should not be asked to fill the hspital form again after sign up. This should be only one time process. The users authentication state should be save after sign up.
