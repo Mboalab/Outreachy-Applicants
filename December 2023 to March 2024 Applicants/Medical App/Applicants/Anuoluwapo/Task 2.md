@@ -2,7 +2,7 @@ This is the link to the recording of the running app:
 [link](https://drive.google.com/file/d/1BehuW1quo_Z65r7mOo4nwGqgaEI4pn0C/view?usp=drive_link)
 
 ##  Project Overview
-## 1. Introduction**
+## 1. Introduction
 
 The project called **mboacare** is a platform for connecting global medical facilities and is developed in collaboration with Mboalab. Th aim is to provide a platform where hospitals can sign up, and register the various facilities and services as per their location, and other hospitals can easily refer patients, or patients can easily locate a hospital for each case.
 
@@ -58,3 +58,6 @@ The application addresses the challenge of finding which hospital can treat a pa
 ## 6. Suggested UI/UX
 - The unselected bottomnavbar icons colors are too light. They're not visible enough
 - The join community button border is color should be the primary color of the app.
+
+## 7. Conclusion
+- Mboacare application aims to transform healthcare access by providing a user-friendly platform to find and connect with medical facilities globally. By looking into all the stated observations above, the aim will be achieve and the rate of mortality in the society will reduce.
