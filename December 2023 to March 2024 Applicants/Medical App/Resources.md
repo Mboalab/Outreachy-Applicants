@@ -1,6 +1,6 @@
 Find the link to the repository of the application
 
-https://github.com/AnishaSingh0118/Mboacare
+https://github.com/Mboalab/Mboacare_Main
 
 Link to the Figma design file
 
