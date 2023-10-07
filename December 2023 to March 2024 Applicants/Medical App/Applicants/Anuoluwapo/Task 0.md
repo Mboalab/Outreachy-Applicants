@@ -15,7 +15,7 @@ I enjoy taking pictures, reading books and hanging out with friends.
 I am genuinely excited about this opportunity, and my primary goal is to learn, contribute, and support the community.
 
 ### Find me here:
-+ [E-mail] (famakinwaanuj@gmail.com)
++ [E-mail](famakinwaanuj@gmail.com)
 + [LinkedIn](https://www.linkedin.com/in/famakinwa-anuoluwapo/) 
 + [Twitter](https://twitter.com/_mercyjae)
 + [GitHub](https://github.com/mercyjae)
