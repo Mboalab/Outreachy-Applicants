@@ -47,8 +47,8 @@ The application addresses the challenge of finding which hospital can treat a pa
 
 
 ## 5. Additional Functionalities
-- Hospital can be filtered based on public or private
-- Instead of the bed capacity features, it should be if the beds are available at that moment
+- Hospital can be filtered based on public or private.
+- Instead of the bed capacity features, it should be if the beds are available at that moment.
 - If hospital isn't found, there should be an appropriate answer given to the user.
 - There should be an in app chat with hospitals.
 - Sign up users information should be added to the profile page and it should be editable.
