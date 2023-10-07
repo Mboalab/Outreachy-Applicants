@@ -107,17 +107,21 @@ In the image above, if the user clicks the back button from the home page, it ta
 
 My suggestion would be to fix the routing so that pages are properly popped.
 
+## Translation 
+
+Translations in the app does not currently work.
 ## General Suggestion
-1. App structure 
+1. **App structure**
 
 ![Alt text](images/image-34.png)
 
 The current app structure as on the image above is simple and good but I believe we could make it better by implementing clean architecture and the MVC pattern to seperate the Business login from the UI so as to be able to easily expand the codea and implementing testing. With the enhanced structure many people will be able to contribute without much conflicts.
 
-2. State management
-The provider package is an awesome package which is currently implemented. My personal recommendation is to use GetX due to its 
+2. **State management**
+
+The provider package is an awesome package which is currently implemented in the app. My personal recommendation is to use GetX due to its 
 + Simplicity and Conciseness easy for everyone
 + Navigation or route managment
-+ Ease in implementing internationalization
++ Ease in implementing internationalization (Great for making translations within the app)
 + GetX can help to reduce a lot of biolerplate code
 + GetX can also help in decoupling the view, presentation and business login.
