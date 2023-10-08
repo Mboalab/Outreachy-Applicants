@@ -17,6 +17,10 @@ The application addresses the challenge of finding which hospital can treat a pa
  - User can signup and login with email and password. 
  - They also get a success verification email.
 
+
+
+
+
  **Hospital Dashboard**
 
  - The hospital dashboard shows a list of all the hospitals with the service offered and facilities present.
@@ -33,17 +37,35 @@ The application addresses the challenge of finding which hospital can treat a pa
 
  **Authentication**
  - User should not be asked to fill the hspital form again after sign up. This should be only one time process. The users authentication state should be save after sign up.
+
+https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/e432c39b-c08c-4169-bbce-e5dce6413ae9
+
+
  - The google sign in doesn't work.
+ - https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/587aa2b7-5eb7-4ad7-bf52-db6d86b230d7
 
   **Hospital Dashboard**
- - The hospital card overflows.
+ - The hospital card overflows.![WhatsApp Image 2023-10-08 at 11 23 51 AM](https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/c65b4734-b326-48a7-9aed-237fee954cf2)
+
  - The search function isn't working properly.
+
+https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/4e45847a-02ae-4f40-abf4-a4613a6c4536
+
+
  
 **App localisation**
  - Only English works, other languages doesn't work.
 
+https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/aeeaef9d-123f-4731-8647-935cbf190085
+
+
+
   **Profile Page**
  - The logout button doesn't work.
+
+https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/5da7e2d1-ec80-4a92-ae52-0f740f30c345
+
+
 
 
 ## 5. Additional Functionalities
