@@ -1,35 +1,45 @@
-### 1. Setting up Development Tools
+# Mboathoscope Test 
 
-I already had an exixting Github account, Flutter and Dart SDK, Visual Studio Code. I forked the Outreachy-Applicants repository and cloned the repository. I also cloned the Mboathoscope project from its github. 
+After running the application as detailed in the previous task, I proceded to test Mboathoscope on two devices.
 
-[![1.png](https://github.com/veekamunya/veekamunya/assets/114191508/d7e79e14-b3f7-4f2e-807b-a5d72d5d318b)](https://postimg.cc/m1NqgQRC)
-
-I then opened Visual Studio Code and cloned the Mboathoscope project from the github url.
-
-### 2. Updating Dependencies on the Mboathoscope project
-
-I ran flutter pub get to update dependencies on the app.
-
-[![2.png](https://github.com/veekamunya/veekamunya/assets/114191508/856e6672-6fb4-4342-abf2-17cc6a82fe6c)](https://postimg.cc/m1NqgQRC)
-
-### 3. Running the app
-I ran the flutter run command on the terminal and it produced an error.
-
-[![3.png](https://github.com/veekamunya/veekamunya/assets/114191508/9fc8767a-331f-4bd1-97e0-ad6c06535a1b)
-
-### 4. Navigating to Flutter Project root
-
-I opened the project folder on the terminal and navigated to the Flutter Project Root.
-
-[![4.png](https://github.com/veekamunya/veekamunya/assets/114191508/a8b6694e-6dfb-4f10-8fed-9464d0b3cb86)](https://postimg.cc/m1NqgQRC)
+**Testing Device 1 Specifications**
+- **Model:**  SM-A047F
+- **OS** Android Version 13
+- **Display:** Portrait Mode
+- **Processor:** Octa-core 4x2.3 GHz Cortex-A53
+- **RAM:** 4.0 GB
+- **Resolution:** 720 x 1600
 
 
-### 5. Running the Application
-I used the command "flutter run"
 
-[![5.png](https://github.com/veekamunya/veekamunya/assets/114191508/7a9a4488-2b00-4f93-9abc-ab6fccae382c)](https://postimg.cc/MfDPSqbY)
+This is a [Video Demonstration](https://drive.google.com/file/d/1nPKImEQsPGJbRaXp7o00zXQPHfwTaagM/view?usp=sharing) of testing the Mboathoscope project using the device above.
 
-### 6. Launching the App and Going through the App
+
+## Feedback
+
+### Positive Feedback
+
+1. **Login page Design** The animation on top of the email and password fields is good and is relevant to the application. As I could not access other app features as detailed below, I was not able to explore more app features.
+
+
+
+### Needs Improvement Feedback
+
+1 - I tested the app on Dark mode on the Android Device and the app theme did not change. The splash screen was stil white and the app theme was still on light mode. 
+
+2 - After launching the app and getting navigated to the Login page, I clicked on register in order to create an account. 
+Here are some notes on the page.
+- The register form has no validation as demonstrated in the video above. there is no limit to the number of characters one can put
+ in a field, or validation of correct input on the fields for name and email address.
+
+- The gender field requires text input which is not a good user experience as the user should be allower to choose the gender from i.e a drop down selection box.
+
+- There is also no validation and authentication of the hone nmber and no details provided for the phone number format required.
+
+- For the login button, the Login name is mispelled.
+
+3 - Upon clicking the register button, no action happened and there was no details provided as to why the register action did not happen.
+
 <table>
   <tr>
     <td><a href="https://postimg.cc/Jtm788NV"><img src="https://github.com/veekamunya/veekamunya/assets/114191508/921f2028-07a2-4dd0-82de-f746fe1cb9a6" alt="flutter-01.png"></a></td>
@@ -38,5 +48,26 @@ I used the command "flutter run"
   </tr>
 </table>
 
-### 7. Final Notes
-After launching the app and after the splash screen, I chose the register option and got navigated to a sign up screen. The sign up screen however,had no validation for the fields and when i clicked register, the app did not register me as a new user, and i did not also get an authetication error as to why I was not registered.
+
+## Final Note
+
+I was therefore unable to test the rest of the application beyond the register and login page. 
+
+I repeated the test on a simulator to verify the results above as shown below.
+
+[Video Demonstration](https://drive.google.com/file/d/1OuAOeBmYnTJ6Wb5PvTGnfhwxPfQF8SSg/view?usp=sharing)
+
+
+**Testing Device 1 Specifications**
+-Emulated device
+- **Model:**  sdk_gphone64_arm64
+- **OS** Android Version 12
+- **Display:** Portrait Mode
+- **RAM:** 4.0 GB
+
+### Second test results
+
+The results of the test was the same as for the first test. I was unable to use the app beyond the account creation (Register) page in addition to the splash screen and login page.
+
+
+
