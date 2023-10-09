@@ -49,13 +49,19 @@ Here are some notes on the page.
 </table>
 
 
-## Final Note
+## Second Test
 
 I was therefore unable to test the rest of the application beyond the register and login page. 
+I therefore looked at the codebase and switched the navigation route from the Login page to the Homepage to bypass the required user credentials.
 
 I repeated the test on a simulator to verify the results above as shown below.
 
-[Video Demonstration](https://drive.google.com/file/d/1OuAOeBmYnTJ6Wb5PvTGnfhwxPfQF8SSg/view?usp=sharing)
+[Video Demonstration](https://drive.google.com/file/d/1LKjVjuRnOZZgNz3kg-qpX7VlYg1PUvav/view?usp=sharing)
+
+I also switched the route from the login page to the role page so I could explore thr role page and here are the results.
+
+[Video Demonstration](https://drive.google.com/file/d/1q4MIQo7bNL09yNh3hrBJwGLpAZ5v0O0l/view?usp=sharing)
+
 
 
 **Testing Device 1 Specifications**
@@ -67,7 +73,22 @@ I repeated the test on a simulator to verify the results above as shown below.
 
 ### Second test results
 
-The results of the test was the same as for the first test. I was unable to use the app beyond the account creation (Register) page in addition to the splash screen and login page.
+Upon switching the routes I was able to explore the app in depth by navigating to various pages and testing the recording function.
+
+
+
+### Feedback
+
+- On the bottom navigation tab, the second and third tabs were empty and I made the assumption that they shold be populated by user information that was not available after bypassing registration.
+
+- The design elements are cohesive with the app function and theme.
+
+### Final Notes
+ I am looking forward to further explore the full functions with the registration function in place.
+
+
+
+
 
 
 
