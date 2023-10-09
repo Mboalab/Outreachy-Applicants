@@ -2,6 +2,17 @@
 
 The [Running App Recording](https://drive.google.com/file/d/1lw9SBSAmYrXADZOot69FMFJ0LXbTn39A/view).
 
+### Devices Used
+1. Samsung A71, <br>
+   Android Version: 11, <br>
+   Device Resolution: 1440x3120<br>
+   Internal memory: 6GB
+
+2. Pixel A4 (Emulator) <br>
+   Android Version: 12, <br>
+   Device Resolution: 1080 x 2340<br>
+   Internal memory: 1.5GB
+
 
 ### About Mboacare App
 
