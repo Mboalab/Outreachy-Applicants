@@ -57,9 +57,11 @@ https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/e432c39b-c08c-4
  - https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/587aa2b7-5eb7-4ad7-bf52-db6d86b230d7
 
   **Hospital Dashboard**
- - The hospital card overflows. 
+ - The facilities in the hospital card overflows. The hospital container is meant to enlarge as the number of facilities increases. 
 
- ![WhatsApp Image 2023-10-08 at 11 23 51 AM](https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/c65b4734-b326-48a7-9aed-237fee954cf2)
+https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/66318c51-07b0-466d-98ae-71c0ba75295e
+
+
 
  - The search function isn't working properly.
 
