@@ -62,12 +62,6 @@ https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/e432c39b-c08c-4
 https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/66318c51-07b0-466d-98ae-71c0ba75295e
 
 
-
- - The search feature isn't working properly.
-
-https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/4e45847a-02ae-4f40-abf4-a4613a6c4536
-
-
  
 **App localisation**
  - Only English works, other languages doesn't work.
