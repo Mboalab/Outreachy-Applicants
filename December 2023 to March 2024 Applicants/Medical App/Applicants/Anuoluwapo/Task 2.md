@@ -95,6 +95,7 @@ https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/5da7e2d1-ec80-4
 - Hospital shoud be able to get notifications.
 - Rating and feedback by hospitals.
 - The app should permit users to find and connect with medical facilities around the world. There's no option for user to register. Only hospital registration is available
+- Addition of edit profile screen. This makes user to be able to edit their details.
 
 ## 6. Suggested UI/UX
 - The contrast color of the unselected bottomnavbar icons needs to improve to enable visibility. They're not visible enough.
