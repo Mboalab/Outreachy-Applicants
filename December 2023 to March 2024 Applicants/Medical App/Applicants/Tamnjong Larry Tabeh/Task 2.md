@@ -106,7 +106,7 @@ Translations in the app do not currently work (A user at the moment cannot switc
 
 ![Alt text](images/image-34.png)
 
-The current app structure as in the image above is simple and good but I believe we could make it better by implementing clean architecture and the MVC pattern to separate the Business login from the UI so as to be able to easily expand the code and implement testing. With the enhanced structure many people will be able to contribute without much conflict.
+The current app structure as in the image above is simple and good but I believe we could make it better by implementing clean architecture and the MVC pattern to separate the code Business login from the UI so as to be able to easily implement unit testing within the app. With an enhanced structure the app will generallyly perform better, maintaining and debuging would also be easier.
 
 2. **State management**
 
@@ -115,4 +115,4 @@ The provider package is an awesome package that is currently implemented in the 
 + Navigation or route management
 + Ease in implementing internationalization (Great for making translations within the app)
 + GetX can help to reduce a lot of boilerplate code
-+ GetX can also help in decoupling the view, presentation, and business login.
++ GetX can also help in decoupling the view, presentation, and business logic.
