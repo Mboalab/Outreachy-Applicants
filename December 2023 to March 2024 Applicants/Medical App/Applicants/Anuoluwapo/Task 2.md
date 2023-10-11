@@ -45,7 +45,7 @@ The methodology used in the app is called waterfall methodology.
 ## 6. Non Functional Sections of the Application
 
  **Authentication**
- - User should not be asked to fill the hospital form again when they logged in the second time. This should be only one time process. Instead, they should be directly redirected to the list of hospital.
+ - Users should not be asked to fill the hospital form again when they logged in the second time. This should be only one time process. Instead, they should be directly redirected to the list of hospital.
  The users authentication state should be save after sign up.
 
 
@@ -57,11 +57,11 @@ https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/e432c39b-c08c-4
  - https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/587aa2b7-5eb7-4ad7-bf52-db6d86b230d7
 
   **Hospital Dashboard**
- - The hospital card overflows. 
+ - The facilities in the hospital card overflows. The hospital container is meant to enlarge as the number of facilities increases. 
 
  ![WhatsApp Image 2023-10-08 at 11 23 51 AM](https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/c65b4734-b326-48a7-9aed-237fee954cf2)
 
- - The search function isn't working properly.
+ - The search feature isn't working properly.
 
 https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/4e45847a-02ae-4f40-abf4-a4613a6c4536
 
@@ -76,6 +76,7 @@ https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/aeeaef9d-123f-4
 
   **Profile Page**
  - The logout button doesn't work.
+ - The user details is not shown in the profile page.
  
 https://github.com/mercyjae/Outreachy-Applicants/assets/83911888/5da7e2d1-ec80-4a92-ae52-0f740f30c345
 
