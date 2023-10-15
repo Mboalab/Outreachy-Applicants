@@ -31,38 +31,88 @@ Above mention tools are the main tools used in developing the Mboacare mobile ap
 
 Mboacare App consists of two modules which are the User Module (patients) and Hospital Module (hospitals). Below are the various sections available in each module of the application.
 
-### Sections in the User Module 🧑‍⚖️
+### App Observation🧑
 
-1. Splash Screen: The first screen that shows up when the app is launched.
-2. Dashboard: The dashboard is the main page of the application it also consists of a sub-section that includes:
+#### Good Observation
 
-    - Home: This is the first screen that shows when the splash screen is launched. Has a welcome message and an option for hospitals to sign up.
+- Splash Screen: The splash screen is awesome, the animation and friendly welcome message gives a good user experience.
+- Color choice: The choice of color for Mboacare is awesome
+- Dashboard: The dashboard is simple and clean, users can easily access the app features directly given a good user experience. The dashboard consists of a sub-section that includes:
 
-    - Hospital Dashboard: This screen shows the hospitals that have signed up. It consists list of hospitals, various information about the hospitals, and the hospitals' location. Users can search filters based on the diagnosis.
+  - Home: informative, as a user of the I get to know an overview of the application, the community for further help, and register my hospital if i have one or plan to have one
 
-    - Settings page: The user can set language preference
-    - Profile: Here User logout of the application.
+  - Hospital Dashboard: user friendly and access of content is very easy. it features are: display list of sign up hospital, search bar to easily locate a hospital, filter && dropdown menu to narrow my search. All this feature brings about good user experience.
 
-### Sections in the Hospital Module 💊
+  - Settings page: The user can set language preference
+  - Profile: Here User logout of the application.
 
-The Hospital module also consists of a dashboard with various sections but with additional features compared to the User module. The extra sections for the hospital are:
+- Email notification: when user of the application sign up for the first they receive a welcome message with guides on what to do next. This feature is so great as it guides the user on next step.
 
-- Dashboard: It consists of a welcome message and gives a link that enables hospitals to sign up or log in.
-- Sign Up: This screen has a form that allows hospitals to sign up and completely register their information in the app database.
+- Hospital details: Upon clicking on a hospital am redirected to hospital details there am able to get detailed information about the hospital making information access easy.
 
-This hospital module consists of extra features like the ability to edit profiles, and to add new types of disease treatment with categories.
+- Making use of Google Authentication is a good practice when it comes to security of the app and client which the app is making good use of.
 
-## Functional Section of Mboacare App ⛑️
+#### what can be done to improve the app⛑️
 
-- Splash Screen
-- Hospital Dashboard
-- Login Screen
-- Sign Up
-- Hospital registration
-- Page to connect hospitals and users to the MboaLab Community.
-- Search and filter for Hospitals on the hospital dashboard
-- Authentication using Google. (Sign in and sign up)
+1 - Sign up: The current input fields for registration in to Mboacare app is good,but adding another field such as role(patient or hospital) is good because it will determine the user and what screen to navigate too.
 
+![Input Fields](../Task%202/input%201.jpeg)
+
+2 - Search feature: Adding user friendly message to display to user when the search result is empty will improve on user experience instead of displaying a blank screen. Current search results display an empty or blank screen when result is not found.
+
+![Search Result](../Task%202/search%20message.jpeg)
+
+3 - UI Responsiveness: Some content turns to go out of design rendering some error messages to the user which is not making the user experience friendly. This UI can be improve.
+
+![Responsiveness](../Task%202/responsiveness.jpeg)
+
+4 - Error messages: Return error messages is very important in application, Mboacare currently return error messages which is great the design can be improved upon by providing a friendly messages. This can be done using snackbar, alert notifications.
+
+![current error message](../Task%202/error%20message.jpeg)
+
+Here are some suggestions of error and success response:
+
+![Error](../Task%202/error.png)  ![success](../Task%202/succ.png)
+
+5 - Form validation: The current app does not handle form validation before submission. when user click register it returns the error from the backend. It is good the form is validated before send to the backend.
+
+![Current form](../Task%202/input.jpeg).
+
+Suggest validation:
+
+![Form Validation](../Task%202/registration%20error.png).
+
+6 - No Bottom Navigation: When I registered as a hospital am redirected to the dashboard with no bottom navigation.
+
+![No bottom navigation](../Task%202/hospital%20reg.jpeg).
+
+7 - Location: During registration of a new hospital, another field need to be added for user to be able to search for location this can be done by adding google map
+
+8 - hospital details: The current hospital details displays hospital details how ever some features are missing which if added will improve on user navigation such as google maps and location.
+
+![Location](../Task%202/details.jpeg)
+
+9 - Bottom Navigation improvement: The current bottom Navigation is good how ever changes such as modifying the opacity of the color, new icons and renaming of the nav items will be great.
+
+![Nav bar](../Task%202/nav.jpeg)
+
+Suggestion for name:
+
+1 - For user:
+
+   - Home
+   - Hospitals
+   - Favorite
+   - Profile
+
+2 - For Hospitals:
+   - Home
+   - Manage Hospital
+   - Messages
+   - Profile
+
+10 . User Sign up/Sign in : Mboacare is made up of two sections base on documentation how ever only the hospital section consist of this feature. Note should be taken that is one of the most important feature because it will determine where to rout user to.
+ 
 ## Non-Functional Section of Mboacare App 🦥
 
 - Log Out
@@ -79,26 +129,9 @@ This hospital module consists of extra features like the ability to edit profile
 
 Note: Other additional functionalities have been discussed already by passed interns which are cool futures that will enhance the user experience and usability of the app.
 
-## Suggestions for the UI/UX 🎉
+### Additional Observation
 
-I must appreciate the efforts of the development team of the current Mboacare App. The UI is quite simple and clean. Below are my suggestions for the UI/UX to make it more beautiful and user-friendly:
-
-### For UI  🖥️
-
-- Getting a nice font for the text (font type).
-- Improving the Responsiveness of the app.
-- Implementing a good color blend.
-
-### For UX 🏜️
-
-- Improving the Navigation in the application.
-- Providing users with dialog messages or any other indication of the action performed by the user.
-- Adding animations like more good animation libraries like a spin kit.
-- Maintaining the consistency of the application in terms of colors, font size, and shapes.
-- Adding alert messages based on action taken.
-- Adding an onboarding screen to help give first-time users the whole idea about the application.
-
-### For Codebase 🧑‍💻
+#### For Codebase 🧑‍💻
 
 - Refactoring of the code base for more reusability.
 - Making use of state management in the application.
@@ -106,4 +139,3 @@ I must appreciate the efforts of the development team of the current Mboacare Ap
 - Adding readme on how to set up code base
 - Providing a secure communication to the database.
 - Implementing MVC pattern (Model view Controller)
-- Implementing Repository format
