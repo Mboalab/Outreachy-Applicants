@@ -5,9 +5,6 @@
 This is the link to the [video recording ](https://drive.google.com/file/d/11OgUl7K-AjFb4TxhJqjqW5UzvMF_VNEe/view?usp=sharing) of the installed app on my device.
 
 
-https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/eb8eb783-f223-41aa-bf12-a17dfffcc5b9
-
-
 
 ## Mboacare App Documentation Guide 
 
@@ -20,8 +17,6 @@ https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/eb8eb783-f223-
 - The aim of the app Mboacare is to connect various medical facilities globally, enabling them to collaborat effortlesly and improve healthcare outcomes.
 
 ### 2. Problem statement
-
-
 
 #### * Lack of Connectivity and Collaboration: 
 
