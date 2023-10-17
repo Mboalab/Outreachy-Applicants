@@ -1,10 +1,14 @@
 # Task 3
 
+## Recording of Mboacare App on android device
+This is the link to the [video recording ](https://drive.google.com/file/d/11OgUl7K-AjFb4TxhJqjqW5UzvMF_VNEe/view?usp=sharing) of the installed app on my device.
+
+
+
+
 
 
 ## Mboacare App Documentation Guide 
-
-
 
 ### 1. Introduction
 
@@ -25,7 +29,7 @@ The healthcare industry faces challenges in connecting and collaborating across 
 ### * Fragmented Communication and Missed Opportunities: 
 The current disjointed approach to global medical facility connectivity leads to fragmented communication, delays in accessing critical information, and missed opportunities for collaboration. This hinders the ability of healthcare providers to share knowledge, expertise, and resources, ultimately impacting patient outcomes.
 
-#### Need for Improved Healthcare Outcomes
+#### * Need for Improved Healthcare Outcomes
 The absence of a reliable platform for global medical facility connectivity prevents healthcare professionals from efficiently sharing patient data, consulting peers, and coordinating care plans across borders. To address this, there is a need for a solution like the Mboacare app, which aims to connect medical facilities worldwide and facilitate effortless collaboration. By leveraging technology, Mboacare strives to improve healthcare outcomes by enabling healthcare professionals to make informed decisions, access specialized consultations, share best practices, and collectively work towards advancing medical research and innovation.
 
 
@@ -88,6 +92,33 @@ The development of the Mboacare app follows an agile approach, allowing for iter
 #### 3. Information and Communication
 - Comprehensive Hospital Profiles
 - Social Media Integration
+
+  
+
+# Section 2 (UI/UX Suggestions)
+
+#### 1. Authentication UX Issue
+- I noticed that upon opening the app, The first screen I'm being presented with is the signup screen but when I click on signup it leads to login.
+##### Proposed solution
+- Login and signup modules should can be set apart on the concerned UI.
+
+#### 2. No dashboard for a hospital account created
+- I should be able to get to my dashboard as a hospital owner signed up in the system
+##### Proposed solution
+- The UI can be modified to contain a dashboard module wherein I can find information on my profile
+
+#### 3. Impossibility to edit profile
+##### Proposed solution 
+- A modification can be done in the dashboard or settings page that will enable the owner of a hospital account modify his/her profile.
+
+
+
+
+
+
+
+
+
 
 
 
