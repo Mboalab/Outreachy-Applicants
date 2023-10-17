@@ -1,5 +1,4 @@
 
-https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/eb8eb783-f223-41aa-bf12-a17dfffcc5b9
 # Task 3
 
 ## Recording of Mboacare App on android device
