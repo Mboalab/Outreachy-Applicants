@@ -1,3 +1,5 @@
+
+https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/eb8eb783-f223-41aa-bf12-a17dfffcc5b9
 # Task 3
 
 ## Recording of Mboacare App on android device
@@ -109,17 +111,29 @@ The development of the Mboacare app follows an agile approach, allowing for iter
 
 #### 1. Authentication UX Issue
 - I noticed that upon opening the app, The first screen I'm being presented with is the signup screen but when I click on signup it leads to login.
+https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/f2860844-4728-4e09-a4ce-711637d17434
+
+
 ##### Proposed solution
 - Login and signup modules should can be set apart on the concerned UI.
 
 #### 2. No dashboard for a hospital account created
 - I should be able to get to my dashboard as a hospital owner signed up in the system
+
+https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/1e6f9012-47bf-47c1-b1f0-ca5cb28b76f6
+
+
 ##### Proposed solution
 - The UI can be modified to contain a dashboard module wherein I can find information on my profile
 
 #### 3. Impossibility to edit profile
+https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/0d79d98b-13c7-4a86-a5d7-77baf5d2008a
 ##### Proposed solution 
 - A modification can be done in the dashboard or settings page that will enable the owner of a hospital account modify his/her profile.
+
+
+
+
 
 
 
