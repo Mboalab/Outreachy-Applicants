@@ -1,7 +1,10 @@
 # Task 3
 
 
+
 ## Mboacare App Documentation Guide 
+
+
 
 ### 1. Introduction
 
@@ -13,6 +16,8 @@
 
 ### 2. Problem statement
 
+
+
 #### * Lack of Connectivity and Collaboration: 
 
 The healthcare industry faces challenges in connecting and collaborating across various medical facilities globally, resulting in inefficiencies and suboptimal patient care. There is a lack of an effective platform that enables seamless collaboration among healthcare professionals and institutions.
@@ -22,6 +27,7 @@ The current disjointed approach to global medical facility connectivity leads to
 
 #### Need for Improved Healthcare Outcomes
 The absence of a reliable platform for global medical facility connectivity prevents healthcare professionals from efficiently sharing patient data, consulting peers, and coordinating care plans across borders. To address this, there is a need for a solution like the Mboacare app, which aims to connect medical facilities worldwide and facilitate effortless collaboration. By leveraging technology, Mboacare strives to improve healthcare outcomes by enabling healthcare professionals to make informed decisions, access specialized consultations, share best practices, and collectively work towards advancing medical research and innovation.
+
 
 
 ### 3. Project Understanding
@@ -45,6 +51,8 @@ Gmail Authentication: Secure email verification for account authenticity and enh
 
 Through these functionalities, the Mboacare app aims to simplify healthcare access, empower users, and facilitate effective communication between users and hospitals.
 
+
+
 ### 4. Methodology
 The development of the Mboacare app follows an agile approach, allowing for iterative development and continuous improvement based on user feedback. The following frameworks and technologies were employed:
 
@@ -62,8 +70,9 @@ The development of the Mboacare app follows an agile approach, allowing for iter
 
 
 
-
 ### 5. Functional Section
+
+
 #### 1. User Interface and Navigation
 
 - Main Dashboard
@@ -79,3 +88,6 @@ The development of the Mboacare app follows an agile approach, allowing for iter
 #### 3. Information and Communication
 - Comprehensive Hospital Profiles
 - Social Media Integration
+
+
+
