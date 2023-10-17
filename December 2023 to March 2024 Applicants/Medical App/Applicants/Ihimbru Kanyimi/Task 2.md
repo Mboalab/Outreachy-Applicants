@@ -93,6 +93,16 @@ The development of the Mboacare app follows an agile approach, allowing for iter
 - Comprehensive Hospital Profiles
 - Social Media Integration
 
+### 6. Non-functional section
+
+#### 1. Security
+- User Authentication
+- Gmail Authentication
+
+#### 2. Performance
+- Splash Screen
+- User Interface Responsiveness
+
   
 
 # Section 2 (UI/UX Suggestions)
