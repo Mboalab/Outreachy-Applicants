@@ -5,7 +5,7 @@
 This is the link to the [video recording ](https://drive.google.com/file/d/11OgUl7K-AjFb4TxhJqjqW5UzvMF_VNEe/view?usp=sharing) of the installed app on my device.
 
 
-
+https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/eb8eb783-f223-41aa-bf12-a17dfffcc5b9
 
 
 
@@ -110,7 +110,8 @@ The development of the Mboacare app follows an agile approach, allowing for iter
 
 #### 1. Authentication UX Issue
 - I noticed that upon opening the app, The first screen I'm being presented with is the signup screen but when I click on signup it leads to login.
-https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/f2860844-4728-4e09-a4ce-711637d17434
+
+https://github.com/Ihimbru-K/Outreachy-Applicants/assets/87714194/eb8eb783-f223-41aa-bf12-a17dfffcc5b9
 
 
 ##### Proposed solution
