@@ -2,6 +2,8 @@
 
 The following are the steps necessary to setup the development environment for Mboacare App on a Windows PC
 
+*Please see this more more visually apealing [documentation site](https://larrytamnjong.github.io/Documentation/mboacaredocs/) which i build using mk docs it has dark and light theme modes plus search functionality and automatic deployment with github pages.*
+
 ### Table of Contents
 1. Setup a GitHub Account
 2. Install Git
@@ -50,6 +52,7 @@ After downloading VS Code the next step will be to install the Dart and Flutter 
 Follow same process to install Dart extension
 
 + You can download the [latest Android Studio release](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwie18r319iBAxXKi2gJHZHFBAMYABAAGgJ3Zg&gclid=Cj0KCQjw1OmoBhDXARIsAAAYGSG3udihx4f1BVV5XeSEabD9HN4T--qKqCQntTVRsxf6RBZEhDRESuUaAqPgEALw_wcB&ohost=www.google.com&cid=CAESVuD26-E7vK7m8Xu5bvm6zQl96aA8U9oToxoNqA8Fds5BbdD5kkEVI7NgsMobYBLxcGEknZktp9AUhaTE5sidytBHB2mYqOO-z32RNYVMqtbvRuAykFTo&sig=AOD64_1VeHsWC0upgYBovHc2v_NBTIeUdw&q&adurl&ved=2ahUKEwiYvcX319iBAxXWU6QEHcHwDC8Q0Qx6BAgGEAE)
+
 The next step After downloading Andriod Studio will be to install the flutter and dart plugin for Android Studio
 
 ![Alt text](images/image-5.png)
