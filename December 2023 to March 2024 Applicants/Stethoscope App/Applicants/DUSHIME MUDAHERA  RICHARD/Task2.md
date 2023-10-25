@@ -1,6 +1,6 @@
 # Noise Reduction Techniques 
 
-**Suitable audio processing techniques or flutter libraries for noise reduction in audio recordings.**
+1. **Research and identify suitable audio processing techniques or flutter libraries for noise reduction in audio recordings**
 
 There are a number of suitable audio processing techniques and Flutter libraries for noise reduction in audio recordings. Some of the most popular options include:
 
@@ -14,39 +14,114 @@ There are a number of suitable audio processing techniques and Flutter libraries
 * **flutter_audio_filters:** This library provides a set of audio filters, including low-pass filters, high-pass filters, and band-pass filters.
 * **flutter_audio_recorder:** This library provides a simple way to record audio and save it to a file.
 
-**How to implement the selected noise reduction library to process audio recordings and cancel out background noise while preserving the heart and lung sounds.**
 
-To implement the selected noise reduction library to process audio recordings and cancel out background noise while preserving the heart and lung sounds, 
+2. **Implement the selected noise reduction library to process audio recordings and cancel out background noise while preserving the heart and lung sounds.**
 
-I would follow these steps:
+>To my Research i selected 2 that can be used together , includes:
 
-1. Load the audio recording into the noise reduction library.
-2. Apply the selected noise reduction algorithm to the audio recording.
-3. Save the processed audio recording to a file.
+1. **Flutter Audio Recorder**
 
-**How to implement a storage mechanism to save the recorded heart and lung sounds within the app, ensuring easy retrieval for analysis.**
+    Flutter Audio Recorder is a simple and lightweight Flutter library for recording audio. It provides a simple interface for recording and saving audio files.
 
-To implement a storage mechanism to save the recorded heart and lung sounds within the app, ensuring easy retrieval for analysis, you can use the following steps:
+2. **Flutter Audio Processing**
 
-1. Create a directory on the device to store the audio recordings.
-2. Save the processed audio recordings to the directory.
-3. Create a database to store the metadata of the audio recordings, such as the patient's name, date of birth, and diagnosis.
-4. Implement a search function to allow users to easily retrieve audio recordings from the database.
+    Flutter Audio Processing is a Flutter library for processing audio signals. It provides a variety of functions for audio processing, including noise reduction, spectral subtraction, and Wiener filtering.
 
-## **How to use machine learning to solve the noise reduction and help identify good working lungs and lungs with problems.**
+**How to use Flutter Audio Recorder and Flutter Audio Processing to reduce background noise and preserve the heart and lung sounds**
 
-Machine learning can be used to solve the noise reduction and help identify good working lungs and lungs with problems in the following ways:
+To use Flutter Audio Recorder and Flutter Audio Processing to reduce background noise and preserve the heart and lung sounds, can be achieved using  the following steps:
 
-* **Noise reduction:** Machine learning can be used to train a model to identify the noise spectrum in an audio recording, which can then be used to improve the accuracy of spectral subtraction.
-* **Lung sound classification:** Machine learning models can be trained on a dataset of audio recordings from patients with known lung conditions, such as pneumonia or asthma. The trained model can then be used to classify new audio recordings into different categories, such as "healthy lungs", "lungs with pneumonia", or "lungs with asthma".
+    1. Record the audio using Flutter Audio Recorder.
+    2. Reduce the background noise from the audio recording using Flutter Audio Processing.
+    3. Save the denoised audio recording.
 
-**Machine learning tools that can be integrated with Flutter to solve the above Noise reduction and identify Good lungs sound and bad ones**
+Here is an example of how to do this:
 
-There are a number of machine learning tools that can be integrated with Flutter to solve the above noise reduction and lung sound identification tasks. Some  options include:
+
+``` 
+import 'package:flutter_audio_processing/flutter_audio_processing.dart';
+
+import 'package:flutter_audio_recorder/flutter_audio_recorder.dart';
+
+// Record the audio.
+final audioRecording = await recordAudio();
+
+// Reduce the background noise using spectral subtraction.
+final denoisedRecording = await spectralSubtraction(audioRecording);
+
+// Save the denoised recording.
+await saveAudioRecording(denoisedRecording);
+
+```
+**Conclusion**
+
+    Flutter Audio Recorder and Flutter Audio Processing are two powerful Flutter libraries that can be used to record and process audio signals. By using these libraries, you can reduce background noise from audio recordings and identify heart and lung diseases.
+
+**How machine learning models can be used to identify heart and lungs diseases or identifying a good and bad (heart or lungs ) based on the audio recordings**
+
+>There are a number of machine learning tools that can be integrated with Flutter to solve the above .
+
+Some  options include:
 
 * **TensorFlow Lite:** This is a lightweight version of TensorFlow that can be used to run machine learning models on mobile devices.
 * **PyTorch Mobile:** This is a lightweight version of PyTorch that can be used to run machine learning models on mobile devices.
 * **MLKit:** This is a Google library that provides a number of machine learning APIs for mobile devices, including noise reduction and lung sound classification.
 
+### USING TENSORFLOW LITE TO ACHIEVE THE ABOVE 
+To use TensorFlow Lite to identify heart and lung diseases or identify a good and bad heart or lungs based on the audio recordings, 
 
-**More Research In Progress**
+The below are steps:
+
+1. **Train a machine learning model on a dataset of labeled audio recordings.** we can use a variety of machine learning frameworks, In This case TensorFlow to train our model. Once the model is trained, this can be savedit as a TensorFlow Lite model.
+
+2. **Deploy the TensorFlow Lite model on mobile device, embedded system, or the web.** 
+
+3. **Load the TensorFlow Lite model on the device and use it to classify new audio recordings.**  With the help of TensorFlow Lite Interpreter to load and run the TensorFlow Lite model.
+
+
+>Here are some of the benefits of using TensorFlow Lite to identify heart and lung diseases or identify a good and bad heart or lungs based on the audio recordings:
+
+* **Smaller and faster models:** TensorFlow Lite models are typically much smaller and faster than TensorFlow models, making them ideal for use on devices with limited resources.
+* **Cross-platform support:** TensorFlow Lite models can be deployed on mobile devices, embedded systems, and the web.
+* **Easy to use:** TensorFlow Lite provides a simple and easy-to-use API for deploying machine learning models.
+* **Production-ready features:** TensorFlow Lite supports a number of features that make it easy to deploy machine learning models in production, such as quantization and inference optimization.
+
+>I recommend checking out the TensorFlow Lite documentation and tutorials.
+
+
+## STORAGE MECHANISM
+3. **Implement a storage mechanism to save the recorded heart and lung sounds within the app, ensuring easy retrieval for analysis.**
+
+To store recorded heart and lung sounds within a Flutter app, ensuring easy retrieval for analysis, we can use either local storage or Firestore.
+
+**Local Storage**
+
+Local storage is a good option for storing small amounts of data that need to be accessed quickly. 
+
+**Firestore**
+
+`Firestore` is a good option for storing large amounts of data that need to be accessed from multiple devices. To use Firestore in Flutter, we can use the `firebase_core` and `cloud_firestore` packages.
+
+>To save a recorded audio file to Firestore,
+
+1. Create a Firestore collection for audio recordings.
+2. Create a new Firestore document in the collection.
+3. Save the audio file to the document as a base64 string.
+
+>To retrieve a recorded audio file from Firestore: 
+
+1. Get the Firestore document that contains the audio file.
+2. Get the base64 string for the audio file from the document.
+3. Convert the base64 string to an audio file.
+
+**Which storage mechanism to choose?**
+
+If we are to store a small number of audio recordings that need to be accessed quickly, then local storage is a good option. If we need to store a large number of audio recordings or need to access the recordings from multiple devices, then `Firestore` is a good option.
+
+## Next Step
+ > Implementation in the [Mboathoscope Repository](https://github.com/Mboalab/Outreachy-23-MboaLab)
+
+ ## Thank you , Looking forward to your Review and Suggestions.
+
+
+
