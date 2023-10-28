@@ -6,8 +6,6 @@ I am Godwill from Cameroon, specifically from Bamenda in the North West Region. 
 
 As a Software Developer, I have honed my skills in designing and building mobile applications. I have a strong command of various programming languages and frameworks, with a particular focus on Flutter, a popular cross-platform framework for mobile app development. I have utilized Flutter to create user-friendly and visually appealing applications that offer seamless performance across different platforms.
 
-In addition to my development skills, I have expertise in Product Design, specifically in User Interface (UI) and User Experience (UX) design. I believe that a well-designed interface is crucial for enhancing user satisfaction and engagement. By leveraging my knowledge of UI/UX principles and utilizing industry-standard design tools such as Figma, I strive to create intuitive and visually appealing interfaces that provide a seamless user experience.
-
 Throughout my career, I have had the opportunity to work on various mobile applications that are currently being used by individuals and organizations. These projects have allowed me to gain practical experience in the full software development lifecycle, from conceptualization and design to implementation and deployment. I take pride in delivering high-quality and functional applications that meet the specific needs and requirements of my clients or end-users.
 
 #### What i do
@@ -18,22 +16,50 @@ Throughout my career, I have had the opportunity to work on various mobile appli
 - ⚡ Utilizing Tech to solve community related  problems.
 - 🌱 Help mentor and tutor individuals in their Tech career path.
 
-#### Social media profiles
-
-- <a href="https://github.com/godsakani"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"> </a>
-- <a href="https://www.linkedin.com/in/nyong-godwill-6906bb1b5/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> </a>
-- <a href="https://twitter.com/nyong_godwill"><img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-- <a href="https://nyonggodwill11.medium.com/"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
-- <a href="https://www.instagram.com/nyonggodwill/"><img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"></a>
-- <a href="https://web.facebook.com/profile.php?id=100092457032924/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
-- <a href="https://godwilldev-bcc38.web.app/#/"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=internet&logoColor=white" alt="Portfolio Badge"></a>
-
 ### Skills
+
+- Programming Languages: Dart,Node Js, JavaScript, C++, HTML, CSS, BootStrap, Tailwind.
+- FrameWorks: Flutter, React Js, React Native, Angular, Wordpress
+- Databases: Mysql, Firebase, MongoDB, App Write
 
 - Mobile Developer (Flutter)
 - Product Designer (UI/UX)
-- Web Developer
+- Full Stack Developer
 - Content Creator (Blogging)
+
+#### Social media profiles
+
+- [GitHub](https://github.com/godsakani)
+- [Linkedin](https://www.linkedin.com/in/nyong-godwill-6906bb1b5/)
+- [Twitter](https://twitter.com/nyong_godwill)
+- [Medium](https://nyonggodwill11.medium.com/)
+- [Instagram](https://www.instagram.com/nyonggodwill/)
+- [Facebook](https://web.facebook.com/profile.php?id=100092457032924/)
+- [PortFolio](https://godwilldev-bcc38.web.app/#/)
+
+#### Work Experience
+
+| Role        | Company     | Job Type      | Duration  |
+| :---        |    :----:   |   :---:       |   ---:    |
+| Product Design Intern| SideHustle LLC(Remote)   | UX/UI Designer   |     1-03-2020 To 30-03-2020      |
+| Mobile Intern  | SideHustle LLC(Remote)  | Mobile Developer     |      02-03-2021 To 31-05-2021 |
+| Web Developer Intern | OSS Cameroon(Remote)      | React Js      |  03-03-2022  To 30-08-2022     |
+| Mobile Developer   | TynCad (Remote) Ghana       | Flutter Developer    |    01-09-2022 To 01-10-2023       |
+| Mobile Developer Mentor | Skye8      | Intern Tutor   |     02-02-2023 To 03-10-2023      |
+|Full Stack Developer  | Nasia Tech LLC        | Interning as Full Stack Developer     | 20-02-2022 To 30-08-2022           |
+|Mobile Development  | MigosPay, Nigeria      | Flutter Developer  |     10-10-2022 To 30-08-2023      |
+
+#### Projects
+
+- [UniEase](https://play.google.com/store/apps/details?id=com.godydev.UniEase&pli=1) a mobile application develop with flutter.It provides reliable information about Cameroon Educational, such as provide information on Entrance examination, List private and public University in the Country, and providing internship placement. [Google Play Store](https://play.google.com/store/apps/details?id=com.godydev.UniEase&pli=1)
+
+- [Isend](https://play.google.com/store/apps/details?id=com.citysolution.isend) a mobile application develope flutter which help delivery of goods and services withing the community. With ISend We Deliver and you relax checkout app in [Google Play Store](https://play.google.com/store/apps/details?id=com.citysolution.isend).
+
+- [MigosPay](https://play.google.com/store/apps/details?id=com.payserve.migospay) is a Nigeria FinTech flutter application which is develope to help solve the issue of cross border money transfer within countries. [Google Play Store](https://play.google.com/store/apps/details?id=com.payserve.migospay)
+
+- [Find-Home](https://play.google.com/store/apps/details?id=com.dopetech.home_finder) Is a Mobile application develope with flutter with the goal of providing or serving as a restate application to help the population of cameroon easily locate house for Rent. [Google Play Store](https://play.google.com/store/apps/details?id=com.dopetech.home_finder).
+
+- Developed RESTful API for UniEase
 
 #### Informal Aspect About me
 
