@@ -13,5 +13,3 @@ I am genuinely excited about this opportunity, and my primary goal is to learn, 
 + [Twitter](https://twitter.com/TabehLarry)
 + [GitHub](https://github.com/larrytamnjong)
 
-
-
